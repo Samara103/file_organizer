@@ -1,0 +1,2 @@
+Day 0 - Enviroment setup complete. Ready to start Week 1 tomorrow.
+Day 1 - Python reboot and enviroment confidence. Wrote and ran python code, refreshed core syntax, completed 5 warm up excercises, learned basic debugging, logged learning. Completed the python basics section of the python certificate in freeCodeCamp.
