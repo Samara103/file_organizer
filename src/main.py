@@ -11,6 +11,7 @@ import os
 #from organizer.file_practice import countLinesInFile
 #from organizer.dsa_day3 import reverse_list
 from organizer.dsa_day5 import same_elements
+from organizer.dsa_day5 import prefix_sum
 
 
 def main():
@@ -22,7 +23,8 @@ def main():
     #print(countLinesInFile("testText.txt"))
     #print(reverse_list([1,2,4]))
     #print(first_unique([4,5,1,2,1,4,5])) #2
-    print(same_elements([1,2,3], [3,2,1])) #true
+    #print(same_elements([1,2,3], [3,2,1])) #true
+    print(prefix_sum([1,2,3,4]))
 
 if __name__ == '__main__':
     main()
