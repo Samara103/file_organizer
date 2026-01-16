@@ -84,4 +84,4 @@ def sum_digits_recursive(nums):
 #print(binary_search([1,3,5,7], 7)) #3
 #print(count_smaller([3,1,4,2], 3)) #3
 #print(factorial(5)) #120
-print(sum_digits(1234)) #10
+#print(sum_digits(1234)) #10

@@ -12,6 +12,7 @@ import os
 #from organizer.dsa_day3 import reverse_list
 from organizer.dsa_day5 import same_elements
 from organizer.dsa_day5 import prefix_sum
+from organizer.dsa_day7 import factorial
 
 
 def main():
@@ -24,7 +25,8 @@ def main():
     #print(reverse_list([1,2,4]))
     #print(first_unique([4,5,1,2,1,4,5])) #2
     #print(same_elements([1,2,3], [3,2,1])) #true
-    print(prefix_sum([1,2,3,4]))
+    #print(prefix_sum([1,2,3,4]))
+    print(factorial(6))
 
 if __name__ == '__main__':
     main()
